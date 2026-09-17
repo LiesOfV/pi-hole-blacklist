@@ -4,4 +4,4 @@ Original list by StevenBlack/hosts
 Didn't want to copy the whole repo for just this one list.
 
 # Difference:
-Removed the click.discord.com from the blacklist.
+Removed the 'click.discord.com' from the blacklist.
